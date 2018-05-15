@@ -18,6 +18,7 @@ public class TernaryExpression {
         		   /  \
                   c    d
 	 * 
+	 *  Time Complexity : O(n)
 	 * 
 	 */
 	public TreeNode buildTree(String str) {
