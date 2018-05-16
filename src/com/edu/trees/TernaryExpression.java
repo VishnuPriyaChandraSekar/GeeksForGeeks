@@ -8,8 +8,8 @@ public class TernaryExpression {
 	 * 
 	 * 	Input :  string expression =   a?b:c 
 		Output :        a
-              /  \
-             b    c
+                      /  \
+                     b    c
 
 		Input : expression =  a?b?c:d:e
 		Output :       a
